@@ -1,5 +1,7 @@
 # 연두는말안들'어' - 난해한 프로그래밍 언어
 
+<img src="https://github.com/user-attachments/assets/037b05c1-ae48-4619-9d3f-4ef37f9b539e" width="640px"/>
+
 _"진짜 말 안듣는 종합게임 스트리머"[^About]_ [연두는말안드뤄](https://www.twitch.tv/rudbeckia7)님이 자주 사용하는 말을 [예약어](https://ko.wikipedia.org/wiki/예약어)로 모아 만드는 [난해한 프로그래밍 언어](https://ko.wikipedia.org/wiki/난해한_프로그래밍_언어) 명세입니다.
 
 [^About]: [트위치 소개 탭](https://www.twitch.tv/rudbeckia7/about)의 내용 전문
